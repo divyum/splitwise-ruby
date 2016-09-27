@@ -229,3 +229,4 @@ How to run it:
       - [ ] mandatory parameter checks
 - [ ] test cases
 - [ ] make ***create friends*** endpoint
+- [ ] make more endpoints for fetching data
