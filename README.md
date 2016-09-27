@@ -29,7 +29,7 @@ Splitwise.access_token = access_token
 ```
 here `access_token` is access token obtained after authenticating app by user, more about it below.
 
-## [Usage](http://dev.splitwise.com/)
+## Usage
 > All data returned will be in string format. Do JSON.parse(response) to convert it to json.
 
 - ###  API Methods   
@@ -213,7 +213,7 @@ How to run it:
 
 ## Contributing
 
-1. Fork it ( https://github.com/divyum/splitwise/fork )
+1. Fork it ( https://github.com/divyum/splitwise-ruby/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
