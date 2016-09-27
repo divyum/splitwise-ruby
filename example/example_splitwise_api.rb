@@ -33,8 +33,8 @@ get '/auth/:provider/callback' do
 end
 
 get '/get_current_user' do
-	request = JSON.parse(Splitwise::Users.get_current_user)
-	request.to_json
+  request = JSON.parse(Splitwise::Users.get_current_user)
+  request.to_json
 end
 
 get '/auth/failure' do

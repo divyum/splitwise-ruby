@@ -218,3 +218,14 @@ How to run it:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+### To-do's
+
+- [ ] detailed readme (esp expenses, groups, friends )
+      - [ ] examples for each type
+      - [ ] return values for each
+- [ ] more error handling:
+      - [ ] timeout
+      - [ ] mandatory parameter checks
+- [ ] test cases
+- [ ] make ***create friends*** endpoint
