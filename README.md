@@ -34,7 +34,7 @@ here `access_token` is access token obtained after authenticating app by user, m
 
 - ###  API Methods   
 
-   - [currencies](http://dev.splitwise.com/dokuwiki/doku.php?id=get_currencies)   
+   - [get_currencies](http://dev.splitwise.com/dokuwiki/doku.php?id=get_currencies)   
      
      ```ruby
      Splitwise::Request.new.fetch("get_currencies")
