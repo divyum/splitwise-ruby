@@ -208,7 +208,7 @@ How to run it:
 2. `bundle`
 3. Enter `SPLITWISE_KEY` and `SPLITWISE_SECRET` in the **example_splitwise_api.rb**
 4. `ruby example_splitwise_api.rb`
-5. Goto [localhost:3000](localhost:3000), you will be directed to authorization page.
+5. Goto [localhost:4567](localhost:4567), you will be directed to authorization page.
 6. Once authorized, you can use the api.
 
 ## Contributing
